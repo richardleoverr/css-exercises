@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.OddNumbered{
+    background-color: pink;
+}
+
+#NumberTwo{
+    color: blue;
+    font-size: 36px;
+}
+.JustFontSize{
+    font-size: 24px;
+}
+#NumberFour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
